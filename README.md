@@ -1,3 +1,3 @@
 # Objective:
 
-This repository is consist of all files related Final Project Appointment Scheduler.
+This repository consists of all files related to the Final Project Appointment Scheduler.
